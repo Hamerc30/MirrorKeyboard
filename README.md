@@ -23,7 +23,8 @@ It may not work on all keyboards due to the larger/smaller number of keys.
 
 ## Installation
 1. Download [AutoHotkey](https://www.autohotkey.com/)
-2. Run `English.ahk` or `Русская.ahk`
+2.Click Tags and download the ZIP file from there. (https://github.com/Hamerc30/MirrorKeyboard/releases/tag/%23MirrorKeyboard)
+3. Run `English.ahk` or `Русская.ahk`
 
 ## License
 Massachusetts Institute of Technology © 2025 Hamerc30
