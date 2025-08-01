@@ -20,6 +20,7 @@ WARNING:
 Not all games support key remapping via Autohotkey.
 
 It may not work on all keyboards due to the larger/smaller number of keys.
+**(If you suddenly encounter this problem, change the keys within the game. Follow this logic: if the left key is 1, the right key will be =; if the left keys are WASD, the right keys will be [;’ \ ; if the left key is F, the right key will be L. (Setting this up in the games will take at most 3-4 minutes**
 
 ## Installation
 1. Download [AutoHotkey](https://www.autohotkey.com/)
