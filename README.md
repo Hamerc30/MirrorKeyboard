@@ -43,7 +43,7 @@ Week 1: I’ve been using a mirrored keyboard for about a month, and the first f
 
 Week 2: I could already hit the keys without looking at them, although my typing speed wasn’t very fast yet, but the progress was getting better.
 
-Week 3: Typing speed increased significantly, but my brain started to forget the English layout, and my mirrored layout started to mix with the regular English one (I type in Russian). But when I started typing for even 5 minutes a day on the regular English layout, 3-4 times a day, I haven’t forgotten it since, and I haven’t had any confusion.
+Week 3: Typing speed increased significantly, but my brain started to forget the English layout, and my mirrored layout started to mix with the regular English one. But when I started typing for even 5 minutes a day on the regular English layout, 3-4 times a day, I haven’t forgotten it since, and I haven’t had any confusion.
 
 Week 4 (Now): I honestly don’t care which layout I’m typing with anymore. Speed is still lower than the regular layout, but that will pass with time. In regular games like Terraria and Minecraft, I don’t care which layout I use anymore, my fingers don’t get confused, and everything is fine. 
 
