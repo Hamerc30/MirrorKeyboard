@@ -35,7 +35,17 @@ It may not work on all keyboards due to the larger/smaller number of keys.
 This is **not** a plug-and-play solution. Mastering the mirror layout requires practice:  
 - First 30 mins will feel **awkward** (your brain is rewiring).  
 - By day 3-5, **muscle memory** kicks in.  
-- Automation takes **2-3 weeks** (20+ mins/day).  
+- Automation takes **2-3 weeks** (20+ mins/day). 
+
+My personal experience (Honest and unvarnished):
+
+Week 1: I’ve been using a mirrored keyboard for about a month, and the first few days were very uncomfortable, I kept missing the keys.
+
+Week 2: I could already hit the keys without looking at them, although my typing speed wasn’t very fast yet, but the progress was getting better.
+
+Week 3: Typing speed increased significantly, but my brain started to forget the English layout, and my mirrored layout started to mix with the regular English one (I type in Russian). But when I started typing for even 5 minutes a day on the regular English layout, 3-4 times a day, I haven’t forgotten it since, and I haven’t had any confusion.
+
+Week 4 (Now): I honestly don’t care which layout I’m typing with anymore. Speed is still lower than the regular layout, but that will pass with time. In regular games like Terraria and Minecraft, I don’t care which layout I use anymore, my fingers don’t get confused, and everything is fine. 
 
 ## License
 Massachusetts Institute of Technology © 2025 Hamerc30
