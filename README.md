@@ -33,7 +33,7 @@ It may not work on all keyboards due to the larger/smaller number of keys.
 This is **not** a plug-and-play solution. Mastering the mirror layout requires practice:  
 - First 30 mins will feel **awkward** (your brain is rewiring).  
 - By day 3-5, **muscle memory** kicks in.  
-- Automation takes **2-3 weeks** (15 mins/day).  
+- Automation takes **2-3 weeks** (20+ mins/day).  
 
 ## License
 Massachusetts Institute of Technology © 2025 Hamerc30
