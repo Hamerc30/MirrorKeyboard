@@ -29,6 +29,14 @@ It may not work on all keyboards due to the larger/smaller number of keys.
 
 3. Run `English.ahk` or `Русская.ahk`
 
+## ⚠️ Heads up!  
+This is **not** a plug-and-play solution. Mastering the mirror layout requires practice:  
+- First 30 mins will feel **awkward** (your brain is rewiring).  
+- By day 3-5, **muscle memory** kicks in.  
+- Automation takes **2-3 weeks** (15 mins/day).  
+
+*Pro tip:* Start with casual games (Minecraft, Stardew Valley) before competitive shooters like CS2.  
+
 ## License
 Massachusetts Institute of Technology © 2025 Hamerc30
 
