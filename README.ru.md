@@ -23,6 +23,10 @@
 
 ## Установка
 1. Загрузите [AutoHotkey](https://www.autohotkey.com/)
+
+2.Нажмите "Теги" и загрузите ZIP-файл оттуда. (https://github.com/Hamerc30/MirrorKeyboard/releases/tag/%23MirrorKeyboard)
+
+
 2. Запустите `English.ahk` или `Русская.ahk`
 
 ## Лицензия
