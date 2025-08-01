@@ -35,8 +35,6 @@ This is **not** a plug-and-play solution. Mastering the mirror layout requires p
 - By day 3-5, **muscle memory** kicks in.  
 - Automation takes **2-3 weeks** (15 mins/day).  
 
-*Pro tip:* Start with casual games (Minecraft, Stardew Valley) before competitive shooters like CS2.  
-
 ## License
 Massachusetts Institute of Technology © 2025 Hamerc30
 
